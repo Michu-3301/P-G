@@ -71,21 +71,21 @@
 			<h1>Komponenty komputerowe</h1>
 		</div>
 	     <div id="nav">
-		    <a href="https://michu-3301.github.io/komp0/"> Strona Główna </a>   <br />
+		    <a href="https://michu-3301.github.io/komp0/"> Strona Główna </a>   
 			<br></br>
 			Komponenty komputera:
 			<br></br>
-			<a href="https://michu-3301.github.io/proc2/"> -Procesor </a> </br>
+			<a href="https://michu-3301.github.io/proc2/"> -Procesor </a> 
 			<br></br>
-			<a href="Karta Graficzna.html"> -Karta Graficzna </a>   <br />
+			<a href="Karta Graficzna.html"> -Karta Graficzna </a>  
 			<br></br>
-		    <a href="Pamięć Ram.html"> -Pamięć Ram</a>   <br />
+		    <a href="Pamięć Ram.html"> -Pamięć Ram</a>   
 			<br></br>
 			<a href="Zasilacz.html"> -Zasilacz </a>   
 			<br></br>
-			<a href="Chłodzenie.html"> -Chłodzenie </a>   <br />
+			<a href="Chłodzenie.html"> -Chłodzenie </a>  
 			<br></br>
-			<a href="Dysk.html"> -Dysk HDD/SSD </a> <br />
+			<a href="Dysk.html"> -Dysk HDD/SSD </a> 
 		</div>
 		
 		<div id="content">
